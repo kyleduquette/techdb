@@ -1,0 +1,1 @@
+xcopy /y C:\Git\techdb\techdb.mdb V:\Camworks\techdb
